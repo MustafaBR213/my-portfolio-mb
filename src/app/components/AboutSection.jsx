@@ -60,10 +60,10 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          Hello! I'm Mustafa Brooky, a proactive and detail-oriented software engineer with experience in Python, PHP, Flutter, ASP.net core, and Laravel. My expertise lies in building web-based systems and applications, such as a prison system built with Python, a school system developed using PHP, and websites built in ASP.net core. Additionally, I have experience building mobile applications, including a chat app developed with Flutter and Laravel API integration.
+          Hello! I am Mustafa Brooky, a proactive and detail-oriented software engineer with experience in Python, PHP, Flutter, ASP.net core, and Laravel. My expertise lies in building web-based systems and applications, such as a prison system built with Python, a school system developed using PHP, and websites built in ASP.net core. Additionally, I have experience building mobile applications, including a chat app developed with Flutter and Laravel API integration.
           In addition to my technical skills, I also have experience in image processing using OpenCV in Python. This knowledge has been valuable in developing and enhancing various applications that require image recognition and manipulation. I am always eager to explore new technologies and techniques to improve my work and am confident in my ability to bring value to any project I work on.
-          I am passionate about programming and enjoy collaborating with other developers. In fact, I founded a team called "Developers For Syria" with a friend. Our team regularly discusses programming and design, sharing knowledge and skills with each other to improve our work.
-          If you're looking for a reliable and skilled software engineer who is committed to delivering high-quality work on time, please don't hesitate to contact me. I am always seeking new challenges and opportunities to grow and learn.
+          I am passionate about programming and enjoy collaborating with other developers. In fact, I founded a team called Developers For Syria with a friend. Our team regularly discusses programming and design, sharing knowledge and skills with each other to improve our work.
+          If you are looking for a reliable and skilled software engineer who is committed to delivering high-quality work on time, please do not hesitate to contact me. I am always seeking new challenges and opportunities to grow and learn.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
